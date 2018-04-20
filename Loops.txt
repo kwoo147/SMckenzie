@@ -1,5 +1,5 @@
 Shawn's line up here while Khai is making changes down there
-for i in 10 do:
+for character in "shawnsname" do:
 nothing.
 
 This is KW's change.
